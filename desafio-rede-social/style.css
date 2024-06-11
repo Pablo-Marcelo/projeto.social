@@ -36,10 +36,14 @@ div#link-a > a > img{
     
 }
 
+div#link-a > a >img:hover{
+    
+}
+
 
 div#tel{
     width: 100vw;
-    height: 650px;
+    height: 100vh;
     background-image: url("imagens/frame-iphone.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -48,8 +52,10 @@ div#tel{
 
 iframe{
 margin: auto;
-width: 280px;
-height: 485px;
+padding-top: 5px;
+padding-left: 4px;
+width: 269px;
+height: 473px;
 padding-right: 5px;
 }
 
